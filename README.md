@@ -16,7 +16,7 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/GA-customdocker@v2
+uses: actions/Github-Custom-Docker@v2
 with:
   who-to-greet: 'Mona the Octocat'
 
